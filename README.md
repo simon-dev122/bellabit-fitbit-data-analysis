@@ -11,7 +11,7 @@ This project analyzes Fitbit fitness tracker data to identify trends in user act
 - Tableau
 
 ## Dataset
-- Fitbit Fitness Tracker Data public dataset
+- Fitbit Fitness Tracker Data (public dataset)
 - Data includes daily activity, sleep, steps, and calories
 
 ## Key Business Questions
