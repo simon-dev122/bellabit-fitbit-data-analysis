@@ -24,16 +24,16 @@ Analysis was performed using BigQuery SQL, Google Sheets and Tableau .
 Queries can be found in the "sql" folder.
 
 ## Key Insights 
--Users were most active on Tuesdays and Saturdays with significant drop on Sunday.
--The correlation data suggest that there is a significant relationship between higher activity levels and improved sleep outcomes.
--Users who spend more time in bed achieved lower quality sleep. Data suggest there is no consistent pattern across user with some averaging 10 while others sleep about 2h. The average sleep for entire dataset is 7h which meets minimum requirements set by WHO.
--Distance is directly linked to higher calories burned while total steps don't have a significant impact on calories burned.
+- Users were most active on Tuesdays and Saturdays with significant drop on Sunday.
+- The correlation data suggest that there is a significant relationship between higher activity levels and improved sleep outcomes.
+- Users who spend more time in bed achieved lower quality sleep. Data suggest there is no consistent pattern across user with some averaging 10 while others sleep about 2h. The average sleep for entire dataset is 7h which meets minimum requirements set by WHO.
+- Distance is directly linked to higher calories burned while total steps don't have a significant impact on calories burned.
 
 ## Recommendations
--Since user activity drops on Sundays, Bellabeat devices should send reminders or alerts encouraging light physical activity on low-activity days to help users maintain consistency.
--Bellabeat devices should focus on tracking and promoting healthy sleep habits such as consistent bedtimes, sleep environment optimization and relaxation reminders rather than focusing on increasing daily activity as the results show they are not related.
--Bellabeat could introduce a “Sleep Quality Score” that rewards users for efficient sleep rather than time in bed alone and provide personalized tips like adjusting bedtime routines, limiting screen time before sleep or creating optimal sleep environments to help users improve the effectiveness of their rest.
--Bellabeat could encourage users to focus on covering longer distances while walking, jogging or running rather than just accumulating steps. The app could set distance-based challenges, suggest optimal walking routes or provide distance tracking goals to help users maximize calorie burn more effectively.
+- Since user activity drops on Sundays, Bellabeat devices should send reminders or alerts encouraging light physical activity on low-activity days to help users maintain consistency.
+- Bellabeat devices should focus on tracking and promoting healthy sleep habits such as consistent bedtimes, sleep environment optimization and relaxation reminders rather than focusing on increasing daily activity as the results show they are not related.
+- Bellabeat could introduce a “Sleep Quality Score” that rewards users for efficient sleep rather than time in bed alone and provide personalized tips like adjusting bedtime routines, limiting screen time before sleep or creating optimal sleep environments to help users improve the effectiveness of their rest.
+- Bellabeat could encourage users to focus on covering longer distances while walking, jogging or running rather than just accumulating steps. The app could set distance-based challenges, suggest optimal walking routes or provide distance tracking goals to help users maximize calorie burn more effectively.
 
 
 
