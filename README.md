@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes Fitbit fitness tracker data to identify trends in user activity and health-related metrics. The insights are used to support marketing recommendations for Bellabeat, a high-tech wellness company for women.
 
-This case study is part of the **Google Data Analytics Professional Certificate**.
+
 
 ## Tools Used
 - Google BigQuery SQL
