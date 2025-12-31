@@ -20,8 +20,9 @@ This project analyzes Fitbit fitness tracker data to identify trends in user act
 - How can Bellabeat encourage healthier user habits?
 
 ## Analysis
-Analysis was performed using BigQuery SQL, Google Sheets and Tableau .  
-Queries can be found in the "sql" folder.
+The analysis was perfromed using Google BigQuery to clean, join, and summarize the fitbit datasets.  
+Google Sheets was used for data validation and summary checks, while Tableau was used to create data visualizations that supported trend exploration and insight generation.
+
 
 ## Key Insights 
 - Users were most active on Tuesdays and Saturdays with significant drop on Sunday.
