@@ -35,7 +35,6 @@ Google Sheets was used for data validation and summary checks, while Tableau was
 
 ## Recommendations
 - Since user activity drops on Sundays, Bellabeat devices should send reminders or alerts encouraging light physical activity on low-activity days to help users maintain consistent schedule.
-- Bellabeat devices should focus on tracking and promoting healthy sleep habits such as consistent bedtimes, sleep environment optimization and relaxation reminders rather than focusing on increasing daily activity as the results show they are not related.
 - Bellabeat could introduce a “Sleep Quality Score” that rewards users for efficient sleep rather than time in bed alone and provide personalized tips like adjusting bedtime routines, limiting screen time before sleep or creating optimal sleep environments to help users improve the effectiveness of their rest.
 - Bellabeat could encourage users to focus on covering longer distances while walking, jogging or running rather than just accumulating steps. The app could set distance-based challenges, suggest optimal walking routes or provide distance tracking goals to help users maximize calorie burn more effectively.
 
