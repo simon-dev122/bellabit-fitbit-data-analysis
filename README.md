@@ -31,7 +31,7 @@ Google Sheets was used for data validation and summary checks, while Tableau was
 - Users were most active on Tuesdays and Saturdays with significant drop on Sunday.
 - The correlation data suggest that there is a significant relationship between higher activity levels and improved sleep outcomes.
 - Users who spend more time in bed achieved lower quality sleep. Data suggest there is no consistent pattern across user with some averaging 10 while others sleep about 2h. The average sleep for entire dataset is 7h which meets minimum requirements set by WHO.
-- Distance is directly linked to higher calories burned while total steps don't have a significant impact on calories burned.
+- Analysis shows no clear correlation between distance, steps, and calories burned as results vary widely across users. This suggests that calories burned are driven more by intensity of user's workout rather than movement volume alone.
 
 ## Recommendations
 - Since user activity drops on Sundays, Bellabeat devices should send reminders or alerts encouraging light physical activity on low-activity days to help users maintain consistent schedule.
