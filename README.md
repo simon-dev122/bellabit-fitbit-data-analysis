@@ -10,6 +10,9 @@ This project analyzes Fitbit fitness tracker data to identify trends in user act
 - Google Sheets
 - Tableau
 
+## Tableau link
+ https://public.tableau.com/app/profile/szymon.zareba/vizzes
+
 ## Dataset
 - Fitbit Fitness Tracker Data (public dataset)
 - Data includes daily activity, sleep, steps, and calories
